@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 24abeed6e4234dd43859f07ebf49306f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Btn_Txt_Prefab: {instanceID: 0}
+  - Btn_Image: {fileID: 2800000, guid: ab1c9c94982507b448e0fa12b8bd76e0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
